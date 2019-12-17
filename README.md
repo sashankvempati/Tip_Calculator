@@ -3,7 +3,7 @@
 ### OVERVIEW 
 - This app calculates the final price after setting the final tip percentage and sales tax
 
-#### User Stories
+### User Stories
 - Used UI Sliders for setting the values of the tip percentage and sales tax percentage. 
 - Used UI Stepper for 
 - Dark Mode, which sets the background to black when turned on
