@@ -8,6 +8,6 @@
 - Used UI Stepper for 
 - Dark Mode, which sets the background to black when turned on
 
-### App Walkthough GIF
+### App Walkthough
 
 <img src="http://g.recordit.co/FLxngwIsic.gif" width=250><br>
